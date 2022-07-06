@@ -1,0 +1,10 @@
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\model\Order.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\OrderApplication.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\repository\OrderRepository.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\service\OrderService.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\service\OrderServiceImpl.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\model\Item.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\repository\ItemRepository.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\mapper\OrderMapper.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\mapper\ItemMapper.java
+D:\ideaworkspace\aw08-191220042\pos-order\src\main\java\com\micropos\order\controller\OrderController.java
